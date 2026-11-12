@@ -1,10 +1,8 @@
 # Python Data Engineer Code Challenge
 
-[![CI](https://github.com/USERNAME/python-data-engineer-challenge/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/python-data-engineer-challenge/actions/workflows/ci.yml)
+[![CI](https://github.com/RAvellar13/etl-challenge/actions/workflows/ci.yml/badge.svg)](https://github.com/RAvellar13/etl-challenge/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
-> Replace `USERNAME` above with your GitHub username once this is pushed, so the CI badge points at your own repo.
 
 ## About
 
